@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyProject1</string>
+
+    <string name="about">About me</string>
+    <string name="basket">Basketball player</string>
+
+    <string name="my_name">Jeremy Christopher Amadeus Widyanto</string>
+    <string name="my_email">jeremycaw242@gmail.com</string>
+
+    <string name="player_name">player name</string>
+    <string name="status">Golden State Warrior Player Number</string>
+    <string name="action_1">View Detail</string>
+    <string name="position">position</string>
+    <string name="carrer">Carrer</string>
+    <string name="history">History</string>
+
+    <string name="contact_person">Contact Person</string>
+    <string name="title_about_detail">Github \nInstagram \nLinkedIn \n \nDicoding \n </string>
+    <string name="about_detail">https://github.com/minokumaa \n@jcaw_ \nhttps://www.linkedin.com/in/jeremy-christopher-a-w \nhttps://www.dicoding.com/users/jeremy_christopher/academies </string>
+</resources>
