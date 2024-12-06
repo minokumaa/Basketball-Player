@@ -9,7 +9,6 @@ class About : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_about)
-
-        supportActionBar?.title = "About Me"
+        supportActionBar?.hide()
     }
 }
